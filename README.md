@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="image.png" alt="Hi, I am Rajat Krishnan - Data & Business Intelligence Analyst" style="max-width: 100%; height: auto; border-radius: 15px;">
+  <img src="image1.png" alt="Hi, I am Rajat Krishnan - Data & Business Intelligence Analyst" style="max-width: 100%; height: auto; border-radius: 15px;">
 </h1>
 
 <h2 align="center">👋 Hi, I'm Rajat Krishnan</h2>
