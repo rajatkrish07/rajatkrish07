@@ -2,24 +2,24 @@
   <img src="image.png" alt="Rajat Krishnan Banner" width="100%" style="max-width: 1200px; border-radius: 15px;">
 </h1>
 
-<h2 align="center">👋 Hi, I'm Rajat Krishnan</h2>
-<h3 align="center">💡 Data & Business Intelligence Analyst | AI / GenAI Enthusiast</h3>
+<h3 align="center">AI / GenAI Enthusiast</h3>
 
 <p align="center">
-  🌐 <b>Currently advancing my skills in:</b> Generative AI, RAG & Data Engineering <br>
-  📧 <b>Reach me at:</b> <a href="mailto:rajatkrishnan2002@gmail.com">rajatkrishnan2002@gmail.com</a>
+  <b>Currently advancing my skills in:</b> Generative AI, RAG & Data Engineering <br>
 </p>
 
-<h3 align="center">🌐 Connect with Me</h3>
+<h3 align="center">🌐 Socials</h3>
 <p align="center">
   <a href="https://linkedin.com/in/rajatkrishnan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45"/>
   </a>
-  <a href="https://www.instagram.com/rajatkrish07/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  &nbsp;&nbsp;
   <a href="mailto:rajatkrishnan2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/rajatkrish07/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="45"/>
   </a>
 </p>
 
