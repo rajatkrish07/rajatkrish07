@@ -18,9 +18,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="45"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/rajatkrish07/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="45"/>
-  </a>
 </p>
 
 <br><br>
